@@ -1,0 +1,4 @@
+<input [(ngModel)]="inputMessage" />
+<Button (click)="sendEchoRequest()">Send Echo Request</Button>
+
+{{echoedMessage|async}}
