@@ -1,0 +1,2 @@
+# CORS_PlayFramework_Angular2
+CORS_PlayFramework_Angular2
